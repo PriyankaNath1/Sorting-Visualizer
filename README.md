@@ -8,3 +8,6 @@ The algorithms visualised in this app :-
 3. Insertion sort
 4. Merge sort
 5. Quick sort
+
+
+Check out the live version : https://priyankanath1.github.io/Sorting-Visualizer/
